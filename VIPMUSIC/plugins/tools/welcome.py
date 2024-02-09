@@ -106,12 +106,11 @@ async def handle_member_update(client: app, member: ChatMemberUpdated):
                         f"**𝐇ᴇʏ 𝐁ᴀʙʏ»» {member.new_chat_member.user.mention} ✰✰**\n\n**✰𝐖ᴇʟᴄᴏᴍᴇ  𝐓ᴏ  𝐆ʀᴏᴜᴘ✰**\n\n"
               f"**{chat.title}**\n\n"
             f"**▬▭▬▭▬▭▬▭▬**\n"
-            f"**✰𝐌ᴇᴍʙᴇʀ 𝐈ɴꜰᴏʀᴍᴀᴛɪᴏɴ✰ \n▬▭▬▭▬▭▬▭▬**\n\n"
-            f"**│•𝐍𝐞𝐰 𝐁𝐮𝐝𝐝𝐲 ➠ {member.new_chat_member.user.mention}**\n"
-            f"**│•𝐈𝐃➠** {member.new_chat_member.user.id} \n"
-            f"**│•𝐔𝐬𝐞𝐫𝐍𝐚𝐦𝐞➠ @{member.new_chat_member.user.username}**\n╰✠╼━━━━━━❖━━━━━━✠╯\n"
-            f"**☞𝐋ɪɴᴋ» @{chat.username}**\n"
-            f"**☞𝐓ᴏᴛᴀʟ 𝐌ᴇᴍʙᴇʀ 𝐍ᴏᴡ»» {count}**"
+            f"**✰𝐌ᴇᴍʙᴇʀ 𝐈ɴꜰᴏʀᴍᴀᴛɪᴏɴ✰**\n▬▭▬▭▬▭▬▭▬**\n\n"
+            f"**✰𝐍𝐚𝐦𝐞➠ {member.new_chat_member.user.mention}**\n"
+            f"**✰𝐈𝐃➠** {member.new_chat_member.user.id} \n"
+            f"**✰𝐔𝐬𝐞𝐫➠ @{member.new_chat_member.user.username}**\n▬▭▬▭▬▭▬▭▬\n"
+            f"**✰𝐓ᴏᴛᴀʟ 𝐌ᴇᴍʙᴇʀ 𝐍ᴏᴡ»» {count}**"
             )
             add_button_text = "🌿 𝐊ɪᴅɴᴀᴘ 𝐌ᴇ 🌿"
 
