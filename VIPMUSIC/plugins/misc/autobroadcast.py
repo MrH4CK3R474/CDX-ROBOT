@@ -23,7 +23,7 @@ MESSAGE = f"""**🦋𝐁𝐞𝐬𝐭💥𝐌𝐮𝐬𝐢𝐜🔺𝐁𝐨𝐭🌸
 BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏", url=f"https://t.me/{app.username}?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
+            InlineKeyboardButton("🌿 𝐊ɪᴅɴᴀᴘ 𝐌ᴇ 🌿", url=f"https://t.me/{app.username}?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ]
     ]
 )
