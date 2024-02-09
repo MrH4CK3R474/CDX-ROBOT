@@ -74,7 +74,7 @@ font_path = "VIPMUSIC/assets/hiroko.ttf"
 
 INFO_TEXT = """**
 ❅─────✧❅✦❅✧─────❅
-            ✰ 𝐔sᴇʀ ɪɴғᴏ ✰
+    ✰ 𝐔sᴇʀ ɪɴғᴏ ✰
 
 **✰ 𝐔sᴇʀ ɪᴅ ‣ **`{}`
 **✰ 𝐅ɪʀsᴛ ɴᴀᴍᴇ ‣ **{}
