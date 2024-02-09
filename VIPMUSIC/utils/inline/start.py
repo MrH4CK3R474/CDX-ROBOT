@@ -12,9 +12,9 @@ def start_panel(_):
             ),
         ],
         [
-            InlineKeyboardButton(text="֎𝐇ᴇʟᴘ֍", callback_data="settings_back_helper"),
+            InlineKeyboardButton(text="🌿 𝐇ᴇʟᴘ 🦋", callback_data="settings_back_helper"),
             InlineKeyboardButton(
-                text="֎𝐒ᴜᴘᴘᴏʀᴛ֍", url=f"https://t.me/TEAM_CDX"
+                text="🌿 𝐒ᴜᴘᴘᴏʀᴛ 🦋", url=f"https://t.me/THE_GLACEON"
             ),
         ],
     ]
@@ -30,12 +30,11 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="༒𝐊𝐈𝐍𝐆༒", url=f"https://t.me/King_oF_Heartx"),
-            InlineKeyboardButton(text="༒𝐐𝐔𝐄𝐄𝐍༒", url=f"https://t.me/QUEENN_OF_HEART"),
+            InlineKeyboardButton(text="🌿 𝐆ʀᴏᴜᴘ 💕", url=f"https://t.me/GLACEON_CHATS"),
+            InlineKeyboardButton(text="🌿 𝐂ʜᴀɴɴᴇʟ 🦋", url=f"https://t.me/THE_GLACEON"),
         ],
         [
-            InlineKeyboardButton(text="֎𝐇ᴇʟᴘ֍", callback_data="settings_back_helper"),
-            InlineKeyboardButton(text="֎𝐒ᴜᴘᴘᴏʀᴛ֍", url=f"https://t.me/TEAM_CDX"),
+            InlineKeyboardButton(text="🌿 𝐇ᴇʟᴘ 🦋", callback_data="settings_back_helper"),
         ],
     ]
     return buttons
