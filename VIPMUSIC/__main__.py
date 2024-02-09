@@ -40,12 +40,12 @@ async def init():
     await userbot.start()
     await VIP.start()
     await VIP.decorators()
-    LOGGER("VIPMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗣 𝗕𝗢𝗬♨️\n╚═════ஜ۩۞۩ஜ════╝"
+    LOGGER("VIPMUSIC").info("🌿 Sᴜᴄᴇssғᴜʟ Dᴇᴘʟᴏʏ Tʜᴇ Mᴜsɪᴄ Bᴏᴛ ❣️"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("VIPMUSIC").info("                 ╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗣 𝗕𝗢𝗬♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("VIPMUSIC").info("🌿 Sᴜᴄᴇssғᴜʟ Dᴇᴘʟᴏʏ Tʜᴇ Mᴜsɪᴄ Bᴏᴛ 🦋")
     
 
 if __name__ == "__main__":
