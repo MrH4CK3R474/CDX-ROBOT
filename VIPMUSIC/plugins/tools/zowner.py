@@ -16,12 +16,12 @@ app.on_message(
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/6cd4ea12c43be90e1a5f7.jpg",
-        caption=f"""☞𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ⤵️⤵️𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ☜""",
+        caption=f"""❣️𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ⤵️𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ❣️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "☞𝐒ᴏᴜʀᴄᴇ☜", url=f"https://github.com/saurav123akn/Kingxmusic")
+                        "🌿 𝐑ᴇᴘᴏ 🌿", url=f"https://github.com/MrH4CK3R474/CDX-ROBOT")
                 ]
             ]
         ),
@@ -33,12 +33,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/6cd4ea12c43be90e1a5f7.jpg",
-        caption=f"""☞𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ⤵️⤵️𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ☜""",
+        caption=f"""❣️𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ⤵️𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ❣️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "☞𝐒ᴏᴜʀᴄᴇ☜", url=f"https://github.com/saurav123akn/Kingxmusic")
+                        "🌿 𝐑ᴇᴘᴏ 🌿", url=f"https://github.com/MrH4CK3R474/CDX-ROBOT")
                 ]
             ]
         ),
@@ -50,12 +50,12 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/6cd4ea12c43be90e1a5f7.jpg",
-        caption=f"""☞𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ⤵️⤵️𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ☜""",
+        caption=f"""❣️𝐂ʟɪᴄᴋ 𝐁ᴇʟᴏᴡ⤵️𝐁ᴜᴛᴛᴏɴ 𝐓ᴏ 𝐆ᴇᴛ 𝐑ᴇᴘᴏ❣️""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "☞𝐒ᴏᴜʀᴄᴇ☜", url=f"https://github.com/saurav123akn/Kingxmusic")
+                        "🌿 𝐑ᴇᴘᴏ 🌿", url=f"https://github.com/MrH4CK3R474/CDX-ROBOT")
                 ]
             ]
         ),
